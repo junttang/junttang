@@ -28,6 +28,3 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 4. ❗️ Non
 5. ❗️ Non
 <!--END_SECTION:activity-->
-
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
