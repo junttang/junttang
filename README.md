@@ -42,7 +42,7 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 5. ❗️ Non
 <!--END_SECTION:activity-->
 <br/>
-🌱 **:zap: Recent Activity:**
+**:zap: Recent Activity:**
 
 <br/>
 <!--START_SECTION:Resume-->
