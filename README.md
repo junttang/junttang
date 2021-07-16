@@ -24,7 +24,7 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 <!--START_SECTION:activity-->
 1. 🎉 Upload [#1](https://github.com/junttang/Comsil1-Final-Project/blob/master/ofApp.cpp) in [Comsil1-Final-Project](https://github.com/junttang/Comsil1-Final-Project/blob/master/ofApp.cpp)
 2. 💪 Upload [#2](https://github.com/junttang/AssemblyProgrammingAssign) in [Assembly-Programming](https://github.com/junttang/AssemblyProgrammingAssign)
-3. 💪 Non
+3. 💪 Upload [#3](https://github.com/junttang/DataStructuresAssign) in [Data-Structures](https://github.com/junttang/DataStructuresAssign)
 4. ❗️ Non
 5. ❗️ Non
 <!--END_SECTION:activity-->
