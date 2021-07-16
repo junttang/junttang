@@ -1,14 +1,14 @@
 <p align="center">
 <br/>
+<a href="https://www.instagram.com/hyeok_nim">
+  <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>  
 <a href="https://www.facebook.com/profile.php?id=100003407949806">
   <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
-<a href="https://www.instagram.com/hyeok_nim">
-  <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
 </p>
 
-I'm a Graduate Student in **Robotics, Real-Time Systems [@ECN](https://www.ec-nantes.fr)** in France. I also work as a **Web Developer / Embedded Software Engineer [@Hiventive](https://www.hiventive.com)**. I will start interning **[@CM-Robotics](https://cm-robotics.com) in Robotics Software Engineering** in March 2021.
+I'm an Undergraduate in **Robotics, Real-Time Systems [@ECN](https://www.ec-nantes.fr)** in France. I also work as a **Web Developer / Embedded Software Engineer [@Hiventive](https://www.hiventive.com)**. I will start interning **[@CM-Robotics](https://cm-robotics.com) in Robotics Software Engineering** in March 2021.
 
 <p align="center">
 <img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
