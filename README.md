@@ -11,7 +11,7 @@
 I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)**, Republic of Korea. Currently I'm studying some basic subjects like assembly code level programming, data structures and algorithms. I'm interested in cloud computing, AI, big data management, server management etc. No matter what field I go into later, **my ultimate goal is becoming an awesome developer who makes the world covenient.** Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**
 
 <p align="center">
-<img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
+<img align="center" alt="GIF" src="https://tenor.com/s1Jw.gif" />
 </p>
 
 <p align="center">
@@ -23,10 +23,10 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#78](https://github.com/APLA-Toolbox/PythonPDDL/pull/78) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-2. 💪 Opened PR [#79](https://github.com/APLA-Toolbox/PythonPDDL/pull/79) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-3. 💪 Opened PR [#78](https://github.com/APLA-Toolbox/PythonPDDL/pull/78) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-4. ❗️ Closed issue [#7](https://github.com/APLA-Toolbox/PythonPDDL/issues/7) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-5. ❗️ Opened issue [#77](https://github.com/APLA-Toolbox/PythonPDDL/issues/77) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+2. 💪 Non
+3. 💪 Non
+4. ❗️ Non
+5. ❗️ Non
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
