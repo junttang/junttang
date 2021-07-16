@@ -48,6 +48,7 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 - Served in the KOREA ARMY as a Computer Technician (20 Months)<br/>
 - ICQA Network Manager Certificate & KAIT Linux Master Certificate<br/>
 - Computer User in the field of spreadsheet and database, Level-1<br/>
+- Recent TOEIC Score 940 & TOEIC Speaking Lv7 & KHPT Lv1 (2020)
 <!--END_SECTION:Resume-->
 <br/>
 
