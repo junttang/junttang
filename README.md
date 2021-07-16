@@ -42,5 +42,10 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 4. ❗️ Non
 5. ❗️ Non
 <!--END_SECTION:activity-->
+<br/>
+<br/>
+**🌱 My Résumé:**
+<!--START_SECTION:Resume-->
+- Served in the 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunttang&count_bg=%23FFF35E&title_bg=%23555555&icon=redhat.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
