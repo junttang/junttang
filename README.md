@@ -15,7 +15,7 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 </p>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=junttang&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+<!--  <img alig src="https://github-profile-trophy.vercel.app/?username=junttang&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" /> -->
 </p>
 
 </br>
