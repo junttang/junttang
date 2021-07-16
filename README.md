@@ -42,7 +42,7 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 5. ❗️ Non
 <!--END_SECTION:activity-->
 <br/>
-**🌱 My Résumé:**
+**:🌱: My Résumé:**
 <br/>
 <!--START_SECTION:Resume-->
 - Served in the KOREA ARMY as a Computer Technician (20 Months)<br/>
