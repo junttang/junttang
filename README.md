@@ -30,7 +30,6 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp --> 
 <!-- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p> -->        
 <br/>
-<br/>
 
 
 **:zap: Recent Activity:**
@@ -43,7 +42,6 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 5. ❗️ Non
 <!--END_SECTION:activity-->
 <br/>
-<br/>
 **🌱 My Résumé:**
 <br/>
 <!--START_SECTION:Resume-->
@@ -52,6 +50,6 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 - KAIT Linux Master Certificate<br/>
 - Computer User in the field of spreadsheet and database, Level-1<br/>
 
-<br/><br/>
+<br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunttang&count_bg=%23FFF35E&title_bg=%23555555&icon=redhat.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
