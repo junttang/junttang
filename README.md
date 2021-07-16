@@ -18,7 +18,6 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
   <img alig src="https://github-profile-trophy.vercel.app/?username=junttang&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-<h3><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
