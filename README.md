@@ -1,13 +1,10 @@
 <p align="center">
 <br/>
-<a href="https://www.facebook.com/erwin.lejeune">
+<a href="https://www.facebook.com/profile.php?id=100003407949806">
   <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
-<a href="https://www.instagram.com/spid_erwin">
+<a href="https://www.instagram.com/hyeok_nim">
   <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-  <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 </p>
 
