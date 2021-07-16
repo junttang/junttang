@@ -42,13 +42,14 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 5. ❗️ Non
 <!--END_SECTION:activity-->
 <br/>
-**:zap: Recent Activity:**
 
+**:zap: My Resume:**
+<!--START_SECTION:Resume-->
 <br/>
 - Served in the KOREA ARMY as a Computer Technician (20 Months)<br/>
 - ICQA Network Manager Certificate & KAIT Linux Master Certificate<br/>
 - Computer User in the field of spreadsheet and database, Level-1<br/>
-
+<!--END_SECTION:Resume-->
 <br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunttang&count_bg=%23FFF35E&title_bg=%23555555&icon=redhat.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
