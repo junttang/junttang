@@ -45,10 +45,13 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 
 **:zap: My Résumé:**
 <!--START_SECTION:Resume-->
-- Served in the KOREA ARMY as a Computer Technician (20 Months)<br/>
+- Served in the KOREA ARMY as a Computer & Server Engineer (20 Months)<br/>
 - ICQA Network Manager Certificate & KAIT Linux Master Certificate<br/>
-- KOCHAM Computer User in the field of spreadsheet and database, Lv-1<br/>
-- Recent TOEIC Score 940 & TOEIC Speaking Lv7 & KHPT Lv1 (2020)
+- KOCHAM Computer User in the field of spreadsheet and database, Lv1<br/>
+- Recent TOEIC Score 940 & TOEIC Speaking Lv7 & KHPTest Lv1 (2020)<br/>
+- Won an excellence award in the Youth Speech Contest in Anyang (2020)<br/>
+- Member of the ONFOREST University Student Planning Group (2020)<br/>
+- New Member of the Sogang ICPC Team (2021)
 <!--END_SECTION:Resume-->
 <br/>
 
