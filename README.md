@@ -39,7 +39,7 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 2. 💪 Upload [#2](https://github.com/junttang/AssemblyProgrammingAssign) in [Assembly-Programming](https://github.com/junttang/AssemblyProgrammingAssign)
 3. 💪 Upload [#3](https://github.com/junttang/DataStructuresAssign) in [Data-Structures-Assign](https://github.com/junttang/DataStructuresAssign)
 4. ❗️ Upload [#4](https://github.com/junttang/BasicDataStructures) in [Useful-Data-Structures](https://github.com/junttang/BasicDataStructures)
-5. ❗️ Non
+5. ❗️ Upload [#5](https://github.com/junttang/BOJ-Algorithm-Practice) in [BOJ-Algorithm-Practice](https://github.com/junttang/BOJ-Algorithm-Practice)
 <!--END_SECTION:activity-->
 <br/>
 
