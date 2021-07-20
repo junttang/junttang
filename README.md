@@ -6,6 +6,9 @@
 <a href="https://www.facebook.com/profile.php?id=100003407949806">
   <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
+<a href="https://junttang.github.io/My-Personal-Website/">
+  <img alt="guilyx's Website" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+</a>
 </p>
 
 I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)**, Republic of Korea. Currently I'm studying some basic subjects like assembly code level programming, data structures and algorithms. I'm interested in cloud computing, AI, big data management, server management etc. No matter what field I go into later, **my ultimate goal is becoming an awesome developer who makes the world covenient.** Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**
