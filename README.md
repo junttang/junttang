@@ -7,7 +7,7 @@
   <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
 <a href="https://junttang.github.io/My-Personal-Website/">
-  <img alt="guilyx's Website" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img alt="guilyx's Website" width="35px" src="https://image.flaticon.com/icons/svg/2910/2910875.svg" />
 </a>
 </p>
 
