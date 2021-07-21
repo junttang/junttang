@@ -55,7 +55,7 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 - Won an excellence award in the Youth Speech Contest in Anyang (2020)<br/>
 - Member of the ONFOREST University Student Planning Group (2020)<br/>
 - New Member of the Sogang ICPC Team (2021)
-- You can see more details on my personal website [Hyeok's](https://junttang.github.io/My-Personal-Website/)
+- **You can see more details on my personal website [Hyeok's](https://junttang.github.io/My-Personal-Website/)**
 <!--END_SECTION:Resume-->
 <br/>
 
