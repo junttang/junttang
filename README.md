@@ -53,9 +53,9 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 - KOCHAM Computer User in the field of spreadsheet and database, Lv1<br/>
 - Recent TOEIC Score 940 & TOEIC Speaking Lv7 & KHPTest Lv1 (2020)<br/>
 - Won an excellence award in the Youth Speech Contest in Anyang (2020)<br/>
-- Complete the Algorithm Basic Certification course of CODE PLUS (2021)<br/>
 - Member of the ONFOREST University Student Planning Group (2020)<br/>
 - New Member of the Sogang ICPC Team (2021)
+- Complete the Algorithm Basic Certification course of CODE PLUS (2021)<br/>
 - **You can see more details on my personal website [Hyeok's](https://junttang.github.io/My-Personal-Website/)**
 <!--END_SECTION:Resume-->
 <br/>
