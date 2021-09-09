@@ -40,9 +40,10 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 <!--START_SECTION:activity-->
 1. 🎉 Upload [#1](https://github.com/junttang/Comsil1-Final-Project/blob/master/ofApp.cpp) in [WhereIsMyCheese-OpenFrameWorksBasedGame](https://github.com/junttang/Comsil1-Final-Project/blob/master/ofApp.cpp)
 2. 💪 Upload [#2](https://github.com/junttang/AssemblyProgrammingAssign) in [AssemblyProgramming with x86 MASM Assembler](https://github.com/junttang/AssemblyProgrammingAssign)
-3. 💪 Upload [#3](https://github.com/junttang/DataStructuresAssign) in [Some Implementations of DataStructures](https://github.com/junttang/DataStructuresAssign)
-4. ❗️ Upload [#4](https://github.com/junttang/BasicDataStructures) in [Programming FPGA with Verilog HDL Vivado](https://github.com/junttang/BasicDataStructures)
-5. ❗️ Upload [#5](https://github.com/junttang/BOJ-Algorithm-Practice) in [Algorithm Coding Test Practice on BOJ](https://github.com/junttang/BOJ-Algorithm-Practice)
+3. 💪 Upload [#3](https://github.com/junttang/BasicDataStructures) in [Some Implementations of Useful DataStructures](https://github.com/junttang/BasicDataStructures)
+4. ❗️ Upload [#4](https://github.com/junttang/VivadoVerilogCodes) in [Programming FPGA with Verilog HDL Vivado](https://github.com/junttang/VivadoVerilogCodes)
+5. ❗️ Upload [#5](https://github.com/junttang/MyPersonalWebHDML) in [Developing My First Personal Website HDML](https://github.com/junttang/MyPersonalWebHDML)
+6. ❗️ Upload [#6](https://github.com/junttang/BOJ-Algorithm-Practice) in [Algorithm Coding Test Practice on BOJ](https://github.com/junttang/BOJ-Algorithm-Practice)
 <!--END_SECTION:activity-->
 <br/>
 
