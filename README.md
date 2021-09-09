@@ -11,7 +11,7 @@
 </a>
 </p>
 
-I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)**, Republic of Korea. Currently I'm studying some basic subjects like assembly code level programming, data structures and algorithms. I'm interested in cloud computing, AI, big data management, server management etc. No matter what field I go into later, **my ultimate goal is becoming an awesome developer who makes the world covenient.** Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**
+I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)**, Republic of Korea. Currently I'm studying some basic subjects like assembly code level programming, FPGA Designing, Front-End Web Programming, data structures and algorithms. I'm interested in cloud computing, AI, big data management, server management etc. No matter what field I go into later, **my ultimate goal is becoming an awesome developer who makes the world covenient.** Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**
 
 <p align="center">
 <img align="center" alt="GIF" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
@@ -43,7 +43,7 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 3. 💪 Upload [#3](https://github.com/junttang/BasicDataStructures) in [Some Implementations](https://github.com/junttang/DataStructuresPractice) [of Useful DataStructures](https://github.com/junttang/BasicDataStructures)
 4. ❗️ Upload [#4](https://github.com/junttang/VivadoVerilogCodes) in [Programming FPGA with Verilog HDL Vivado](https://github.com/junttang/VivadoVerilogCodes)
 5. ❗️ Upload [#5](https://github.com/junttang/MyPersonalWebHDML) in [Developing My First Personal Website HDML](https://github.com/junttang/MyPersonalWebHDML)
-6. ❗️ Upload [#6](https://github.com/junttang/BOJ-Algorithm-Practice) in [Algorithm Coding Test Practice on BOJ](https://github.com/junttang/BOJ-Algorithm-Practice)
+6. ❗️ Upload [#6](https://github.com/junttang/BOJ-Algorithm-Practice) in [Algorithm Coding Test Practice on BOJSite](https://github.com/junttang/BOJ-Algorithm-Practice)
 <!--END_SECTION:activity-->
 <br/>
 
@@ -55,7 +55,7 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 - Recent TOEIC Score 940 & TOEIC Speaking Lv7 & KHPTest Lv1 (2020)<br/>
 - Won an excellence award in the Youth Speech Contest in Anyang (2020)<br/>
 - Member of the ONFOREST University Student Planning Group (2020)<br/>
-- New Member of the Sogang ICPC Team (2021)
+- Former Member of the Sogang ICPC Team (2021)
 - Complete the Algorithm Basic Certification course of CODE PLUS (2021)<br/>
 - **You can see more details on my personal website [Hyeok's](https://junttang.github.io/My-Personal-Website/)**
 <!--END_SECTION:Resume-->
