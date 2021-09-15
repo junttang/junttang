@@ -6,7 +6,7 @@
 <a href="https://www.facebook.com/profile.php?id=100003407949806">
   <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
-<a href="https://junttang.github.io/My-Personal-Website/">
+<a href="https://junttang.github.io/MyPersonalWebHDML/">
   <img alt="guilyx's Website" width="35px" src="https://image.flaticon.com/icons/svg/942/942748.svg" />
 </a>
 </p>
@@ -58,7 +58,7 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 - Member of the ONFOREST University Student Planning Group (2020)<br/>
 - Former Member of the Sogang ICPC Team (2021)
 - Complete the Algorithm Basic Certification course of CODE PLUS (2021)<br/>
-- **You can see more details on my personal website [Hyeok's](https://junttang.github.io/My-Personal-Website/)**
+- **You can see more details on my personal website [Hyeok's](hhttps://junttang.github.io/MyPersonalWebHDML/)**
 <!--END_SECTION:Resume-->
 <br/>
 
