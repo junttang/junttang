@@ -58,7 +58,7 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 - Member of the ONFOREST University Student Planning Group (2020)<br/>
 - Former Member of the Sogang ICPC Team (2021)
 - Complete the Algorithm Basic Certification course of CODE PLUS (2021)<br/>
-- **You can see more details on my personal website [Hyeok's](hhttps://junttang.github.io/MyPersonalWebHDML/)**
+- **You can see more details on my personal website [Hyeok's](https://junttang.github.io/MyPersonalWebHDML/)**
 <!--END_SECTION:Resume-->
 <br/>
 
