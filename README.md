@@ -14,7 +14,7 @@
 I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)**, Republic of Korea. Currently I'm studying some basic subjects like assembly code level programming, FPGA Designing, Front-End Web Programming, data structures and algorithms. I'm interested in cloud computing, AI, big data management, server management etc. No matter what field I go into later, **my ultimate goal is becoming an awesome developer who makes the world covenient.** Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**
 
 <p align="center">
-<img align="center" alt="GIF" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
+<img align="center" alt="GIF" src="https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e47omkq529o1ahc904ln5cjj60r9h4if7iw061mxuj6&rid=giphy.gif&ct=g" />
 </p>
 
 <p align="center">
