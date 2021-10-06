@@ -43,7 +43,7 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 2. 💪 Upload [#2](https://github.com/junttang/AssemblyProgrammingAssign) in [AssemblyProgramming with x86 MASM Assembler](https://github.com/junttang/AssemblyProgrammingAssign)
 3. 💪 Upload [#3](https://github.com/junttang/BasicDataStructures) in [Some Implementations](https://github.com/junttang/DataStructuresPractice) [of Useful DataStructures](https://github.com/junttang/BasicDataStructures) <br/>(Closed for a while since it's in the middle of the semester)<br/>
 4. ❗️ Upload [#4](https://github.com/junttang/VivadoVerilogCodes) in [Programming FPGA with Verilog HDL Vivado](https://github.com/junttang/VivadoVerilogCodes)
-5. ❗️ Upload [#5](https://github.com/junttang/MyPersonalWebHDML) in [Developing My First Personal Website HDML](https://github.com/junttang/MyPersonalWebHDML)
+5. ❗️ Upload [#5](https://github.com/junttang/MyPersonalWebHDML) in [Developing My First Personal Website HTML](https://github.com/junttang/MyPersonalWebHDML)
 6. ❗️ Upload [#6](https://github.com/junttang/BOJ-Algorithm-Practice) in [Algorithm Coding Test Practice on BOJSite](https://github.com/junttang/BOJ-Algorithm-Practice)
 <!--END_SECTION:activity-->
 <br/>
@@ -57,7 +57,7 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 - Won an excellence award in the Youth Speech Contest in Anyang (2020)<br/>
 - Former Member of the ONFOREST University Student Planning Group (2020)<br/>
 - Developed the Openframeworks based maze game 'WhereIsMyCheese?'(2021)<br/>
-- Developed the first personal website based on JAVA bootstrap (2021)<br/>
+- Developed the first personal website based on JAVA bootstrap HTML (2021)<br/>
 - Complete the Algorithm Basic Certification course of CODE PLUS (2021)<br/>
 - **You can see more details on my personal website [Hyeok's](https://junttang.github.io/MyPersonalWebHDML/)**
 <!--END_SECTION:Resume-->
