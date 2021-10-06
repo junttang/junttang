@@ -51,12 +51,13 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 **:zap: My Résumé:**
 <!--START_SECTION:Resume-->
 - Served in the KOREA ARMY as a Computer & Server Engineer (20 Months)<br/>
-- ICQA Network Manager Certificate & KAIT Linux Master Certificate<br/>
+- ICQA Network Manager Certificate & KAIT Linux Master II Certificate<br/>
 - KOCHAM Computer User in the field of spreadsheet and database, Lv1<br/>
 - Recent TOEIC Score 940 & TOEIC Speaking Lv7 & KHPTest Lv1 (2020)<br/>
 - Won an excellence award in the Youth Speech Contest in Anyang (2020)<br/>
 - Member of the ONFOREST University Student Planning Group (2020)<br/>
-- Former Member of the Sogang ICPC Team (2021)
+- Developed the Openframeworks based maze game 'WhereIsMyCheese?'(2021)<br/>
+- Developed the first personal website based on JAVA bootstrap (2021)<br/>
 - Complete the Algorithm Basic Certification course of CODE PLUS (2021)<br/>
 - **You can see more details on my personal website [Hyeok's](https://junttang.github.io/MyPersonalWebHDML/)**
 <!--END_SECTION:Resume-->
