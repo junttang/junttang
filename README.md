@@ -1,7 +1,7 @@
 <p align="center">
 <br/>
 <a href="https://www.instagram.com/hyeok_nim">
-  <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img alt="guilyx's Instagram" width="35px" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" />
 </a>  
 <a href="https://www.facebook.com/profile.php?id=100003407949806">
   <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
