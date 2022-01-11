@@ -41,8 +41,8 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 <!--START_SECTION:activity-->
 1. 🎉 Upload [#1](https://github.com/junttang/Comsil1-Final-Project/blob/master/ofApp.cpp) in [WhereIsMyCheese-OpenFrameWorksBasedGame](https://github.com/junttang/Comsil1-Final-Project/blob/master/ofApp.cpp)
 2. 💪 Upload [#2](https://github.com/junttang/AssemblyProgrammingAssign) in [AssemblyProgramming with x86 MASM Assembler](https://github.com/junttang/AssemblyProgrammingAssign)
-3. 💪 Upload [#3](https://github.com/junttang/BasicDataStructures) in [Some Implementations](https://github.com/junttang/DataStructuresPractice) [of Useful DataStructures](https://github.com/junttang/BasicDataStructures) <br/><br/>
-4. ❗️ Upload [#4](https://github.com/junttang/VivadoVerilogCodes) in [Programming FPGA with Verilog HDL Vivado](https://github.com/junttang/VivadoVerilogCodes)
+3. 💪 Upload [#3](https://github.com/junttang/BasicDataStructures) in [Some Implementation Codes](https://github.com/junttang/DataStructuresPractice) [of Basic DataStructures](https://github.com/junttang/BasicDataStructures) <br/>
+4. ❗️ Upload [#4](https://github.com/junttang/VivadoVerilogCodes) in [Programming FPGA with Verilog HDL Vivado IDE](https://github.com/junttang/VivadoVerilogCodes)
 5. ❗️ Upload [#5](https://github.com/junttang/MyPersonalWebHDML) in [Developing My First Personal Website HTML](https://github.com/junttang/MyPersonalWebHDML)
 6. ❗️ Upload [#6](https://github.com/junttang/BOJ-Algorithm-Practice) in [Algorithm Coding Test Practice on BOJSite](https://github.com/junttang/BOJ-Algorithm-Practice)
 <!--END_SECTION:activity-->
@@ -52,12 +52,11 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 <!--START_SECTION:Resume-->
 - Served in the KOREA ARMY as a Computer & Server Engineer (20 Months)<br/>
 - ICQA Network Manager Certificate & KAIT Linux Master II Certificate (2020)<br/>
-- KOCHAM Computer User in the field of spreadsheet and database, Lv1 (2020)<br/>
 - Recent official TOEIC Score 940 & TOEIC Speaking Lv7 & KHPTest Lv1 (2020)<br/>
 - Won an excellence award in the Youth Speech Contest in Anyang (2020)<br/>
 - Former Member of the ONFOREST University Student Planning Group (2020)<br/>
 - Developed the Openframeworks based maze game 'WhereIsMyCheese?'(2021)<br/>
-- Developed the first personal website based on JAVA bootstrap HTML (2021)<br/>
+- Developed the personal website based on JAVA bootstrap HTML (Still) (2021)<br/>
 - Complete the Algorithm Basic Certification course of CODE PLUS (2021)<br/>
 - **You can see more details on my personal website [Hyeok's](https://junttang.github.io/MyPersonalWebHDML/)**
 <!--END_SECTION:Resume-->
