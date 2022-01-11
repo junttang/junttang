@@ -4,10 +4,10 @@
   <img alt="guilyx's Instagram" width="35px" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" />
 </a>  
 <a href="https://www.facebook.com/profile.php?id=100003407949806">
-  <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img alt="guilyx's Facebook" width="35px" src="https://cdn-icons.flaticon.com/png/512/2175/premium/2175193.png?token=exp=1641871271~hmac=cfca94ea9c1299174095fe15b16d2b48" />
 </a>
 <a href="https://junttang.github.io/MyPersonalWebHDML/">
-  <img alt="guilyx's Website" width="35px" src="https://image.flaticon.com/icons/svg/942/942748.svg" />
+  <img alt="guilyx's Website" width="35px" src="https://cdn-icons.flaticon.com/png/512/666/premium/666201.png?token=exp=1641871305~hmac=a6eb950e93dbc3421283843f813ef122" />
 </a>
 </p>
 
@@ -41,7 +41,7 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 <!--START_SECTION:activity-->
 1. 🎉 Upload [#1](https://github.com/junttang/Comsil1-Final-Project/blob/master/ofApp.cpp) in [WhereIsMyCheese-OpenFrameWorksBasedGame](https://github.com/junttang/Comsil1-Final-Project/blob/master/ofApp.cpp)
 2. 💪 Upload [#2](https://github.com/junttang/AssemblyProgrammingAssign) in [AssemblyProgramming with x86 MASM Assembler](https://github.com/junttang/AssemblyProgrammingAssign)
-3. 💪 Upload [#3](https://github.com/junttang/BasicDataStructures) in [Some Implementations](https://github.com/junttang/DataStructuresPractice) [of Useful DataStructures](https://github.com/junttang/BasicDataStructures) <br/>(Closed for a while since it's in the middle of the semester)<br/>
+3. 💪 Upload [#3](https://github.com/junttang/BasicDataStructures) in [Some Implementations](https://github.com/junttang/DataStructuresPractice) [of Useful DataStructures](https://github.com/junttang/BasicDataStructures) <br/><br/>
 4. ❗️ Upload [#4](https://github.com/junttang/VivadoVerilogCodes) in [Programming FPGA with Verilog HDL Vivado](https://github.com/junttang/VivadoVerilogCodes)
 5. ❗️ Upload [#5](https://github.com/junttang/MyPersonalWebHDML) in [Developing My First Personal Website HTML](https://github.com/junttang/MyPersonalWebHDML)
 6. ❗️ Upload [#6](https://github.com/junttang/BOJ-Algorithm-Practice) in [Algorithm Coding Test Practice on BOJSite](https://github.com/junttang/BOJ-Algorithm-Practice)
