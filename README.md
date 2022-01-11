@@ -11,7 +11,7 @@
 </a>
 </p>
 
-I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)**, Republic of Korea. Currently I'm studying Basic and Advanced Algorithms, Problem Solving, Assembly and FPGA Programming. I'm interested in Processor Architecture Designing, Embedded Programming, AI, Big Data management, etc. No matter what field I go into later, **my ultimate goal is becoming an awesome developer who makes the world covenient.** Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**
+I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)**, Republic of Korea. Currently I'm studying Basic and Advanced Algorithms, Problem Solving Practice, Assembly Programming, and FPGA Programming. I'm interested in Processor Architecture Designing, Embedded Programming, AI, Big Data management, etc. No matter what field I go into later, **my ultimate goal is becoming an awesome developer who makes the world covenient.** Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**
 
 <p align="center">
 <img align="center" alt="GIF" src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47fp2kwa76abo0wt1esa90i735t2frr1xxxe5bcc23&rid=giphy.gif&ct=g" />
