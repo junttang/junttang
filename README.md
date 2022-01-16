@@ -3,8 +3,8 @@
 <a href="https://www.instagram.com/hyeok_nim">
   <img alt="guilyx's Instagram" width="35px" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" />
 </a>  
-<a href="https://www.facebook.com/profile.php?id=100003407949806">
-  <img alt="guilyx's Facebook" width="35px" src="https://cdn-icons.flaticon.com/png/512/2175/premium/2175193.png?token=exp=1641871271~hmac=cfca94ea9c1299174095fe15b16d2b48" />
+<a href="https://velog.io/@junttang">
+  <img alt="guilyx's Facebook" width="https://cdn-icons.flaticon.com/png/512/3665/premium/3665999.png?token=exp=1642323768~hmac=82466c8d8577322f75030595790cb484" />
 </a>
 <a href="https://junttang.github.io/MyPersonalWebHDML/">
   <img alt="guilyx's Website" width="35px" src="https://cdn-icons.flaticon.com/png/512/666/premium/666201.png?token=exp=1641871305~hmac=a6eb950e93dbc3421283843f813ef122" />
