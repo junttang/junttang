@@ -46,8 +46,9 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 5. ❗️ Upload [#5](https://github.com/junttang/MyPersonalWebHDML) in [Developing My First Personal Website HTML](https://github.com/junttang/MyPersonalWebHDML)
 6. ❗️ Upload [#6](https://github.com/junttang/BOJ-Algorithm-Practice) in [Algorithm Coding Test Practice on BOJSite](https://github.com/junttang/BOJ-Algorithm-Practice)
 <!--END_SECTION:activity-->
+**(Some contents are blocked since it's in the middle of the semester!!)**
 <br/>
-** (Some contents are blocked since it's in the middle of the semester!!) **
+
 
 **:zap: My Résumé:**
 <!--START_SECTION:Resume-->
