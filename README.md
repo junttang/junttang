@@ -39,16 +39,16 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 **:zap: Recent Projects:**
 
 <!--START_SECTION:activity-->
-2021.5. 💪 [AssemblyProgramming with x86 MASM Assembler](https://github.com/junttang/AssemblyProgrammingAssign) <br>
-2021.6. 💪 [WhereIsMyCheese-OpenFrameWorksBasedGame](https://github.com/junttang/Comsil1-Final-Project/blob/master/ofApp.cpp) <br>
-2021.6. 💪 [Implementation Codes](https://github.com/junttang/DataStructuresPractice) [of DataStructures](https://github.com/junttang/BasicDataStructures) [and Algorithms](https://github.com/junttang/AlgorithmDesignAnalysis) <br/>
-2021.8. 💪 [Developing My First Personal Website HTML](https://github.com/junttang/MyPersonalWebHDML) <br>
+2021.05. 💪 [AssemblyProgramming with x86 MASM Assembler](https://github.com/junttang/AssemblyProgrammingAssign) <br>
+2021.06. 💪 [WhereIsMyCheese-OpenFrameWorksBasedGame](https://github.com/junttang/Comsil1-Final-Project/blob/master/ofApp.cpp) <br>
+2021.06. 💪 [Implementation Codes](https://github.com/junttang/DataStructuresPractice) [of DataStructures](https://github.com/junttang/BasicDataStructures) [and Algorithms](https://github.com/junttang/AlgorithmDesignAnalysis) <br/>
+2021.08. 💪 [Developing My First Personal Website HTML](https://github.com/junttang/MyPersonalWebHDML) <br>
 2021.12. 💪 [Programming FPGA with Verilog HDL Vivado IDE](https://github.com/junttang/ProgrammingFPGA) <br>
-2022.1. 💪 [Algorithm Coding Test Practice on BOJSite](https://github.com/junttang/BOJ-Algorithm-Practice) <br>
-2022.4. 💪 [Developing My Own Linux Shell Project](https://github.com/junttang/MyShellProject) <br>
-2022.5. 💪 [Event&Thread-based Concurrent Stock Server](https://github.com/junttang/ConcurrentServerProject) <br>
-2022.6. 💪 [Electronics Vendor Company Database Project](https://github.com/junttang/ElecVendorCompDatabase) <br>
-2022.6. 💪 [Dynamic Memory Allocator (malloc-lab)](https://github.com/junttang/DynamicMemoryAllocator) <br>
+2022.01. 💪 [Algorithm Coding Test Practice on BOJSite](https://github.com/junttang/BOJ-Algorithm-Practice) <br>
+2022.04. 💪 [Developing My Own Linux Shell Project](https://github.com/junttang/MyShellProject) <br>
+2022.05. 💪 [Event&Thread-based Concurrent Stock Server](https://github.com/junttang/ConcurrentServerProject) <br>
+2022.06. 💪 [Electronics Vendor Company Database Project](https://github.com/junttang/ElecVendorCompDatabase) <br>
+2022.06. 💪 [Dynamic Memory Allocator (malloc-lab)](https://github.com/junttang/DynamicMemoryAllocator) <br>
 <!--END_SECTION:activity-->
 **(Some contents are blocked since it's in the middle of the semester!!)**
 <br/>
