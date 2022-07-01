@@ -61,8 +61,6 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 - Recent official TOEIC Score 940 & TOEIC Speaking Lv7 & KHPTest Lv1 (2020)<br/>
 - Won an excellence award in the Youth Speech Contest in Anyang (2020)<br/>
 - Former Member of the ONFOREST University Student Planning Group (2020)<br/>
-- Developed the Openframeworks based maze game 'WhereIsMyCheese?'(2021)<br/>
-- Developed the personal website based on JAVA bootstrap HTML (Still) (2021)<br/>
 - Complete the Algorithm Basic Certification course of CODE PLUS (2021)<br/>
 - **You can see more details on my personal website [Hyeok's](https://junttang.github.io/MyPersonalWebHDML/)**
 <!--END_SECTION:Resume-->
