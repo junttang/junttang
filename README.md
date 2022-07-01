@@ -11,7 +11,7 @@
 </a>
 </p>
 
-I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)**, Republic of Korea. Currently I'm studying Basic & Advanced Algorithms, Problem Solving Practice, System Programming, and Database System. I'm interested in Processor Architecture Designing, System Programming(especially in signal handling and threaded programs), Big Data management, etc. No matter what field I go into later, **my ultimate goal is becoming an awesome developer who makes the world covenient.** Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**
+I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)**, Republic of Korea. Currently I'm studying Basic & Advanced Algorithms, Problem Solving Practice, System Programming, and Database System. I'm interested in Processor Architecture Designing, **System Programming**(especially in signal handling and threaded programs), Big Data management, etc. No matter what field I go into later, **my ultimate goal is becoming an awesome developer who makes the world covenient.** Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**
 
 <p align="center">
 <img align="center" alt="GIF" src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47fp2kwa76abo0wt1esa90i735t2frr1xxxe5bcc23&rid=giphy.gif&ct=g" />
@@ -36,15 +36,19 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 <br/>
 
 
-**:zap: Recent Activity:**
+**:zap: Recent Projects:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Upload [#1](https://github.com/junttang/Comsil1-Final-Project/blob/master/ofApp.cpp) in [WhereIsMyCheese-OpenFrameWorksBasedGame](https://github.com/junttang/Comsil1-Final-Project/blob/master/ofApp.cpp)
-2. 💪 Upload [#2](https://github.com/junttang/AssemblyProgrammingAssign) in [AssemblyProgramming with x86 MASM Assembler](https://github.com/junttang/AssemblyProgrammingAssign)
-3. 💪 Upload [#3](https://github.com/junttang/BasicDataStructures) in [Implementation Codes](https://github.com/junttang/DataStructuresPractice) [of DataStructures](https://github.com/junttang/BasicDataStructures) [and Algorithms](https://github.com/junttang/AlgorithmDesignAnalysis) <br/>
-4. ❗️ Upload [#4](https://github.com/junttang/ProgrammingFPGA) in [Programming FPGA with Verilog HDL Vivado IDE](https://github.com/junttang/ProgrammingFPGA)
-5. ❗️ Upload [#5](https://github.com/junttang/MyPersonalWebHDML) in [Developing My First Personal Website HTML](https://github.com/junttang/MyPersonalWebHDML)
-6. ❗️ Upload [#6](https://github.com/junttang/BOJ-Algorithm-Practice) in [Algorithm Coding Test Practice on BOJSite](https://github.com/junttang/BOJ-Algorithm-Practice)
+2021.5. 💪 [AssemblyProgramming with x86 MASM Assembler](https://github.com/junttang/AssemblyProgrammingAssign)
+2021.6. 💪 [WhereIsMyCheese-OpenFrameWorksBasedGame](https://github.com/junttang/Comsil1-Final-Project/blob/master/ofApp.cpp)
+2021.6. 💪 [Implementation Codes](https://github.com/junttang/DataStructuresPractice) [of DataStructures](https://github.com/junttang/BasicDataStructures) [and Algorithms](https://github.com/junttang/AlgorithmDesignAnalysis) <br/>
+2021.8. 💪 [Developing My First Personal Website HTML](https://github.com/junttang/MyPersonalWebHDML)
+2021.12. 💪 [Programming FPGA with Verilog HDL Vivado IDE](https://github.com/junttang/ProgrammingFPGA)
+2022.1. 💪 [Algorithm Coding Test Practice on BOJSite](https://github.com/junttang/BOJ-Algorithm-Practice)
+2022.4. 💪 [Developing My Own Linux Shell Project](https://github.com/junttang/MyShellProject)
+2022.5. 💪 [Event&Thread-based Concurrent Stock Server](https://github.com/junttang/ConcurrentServerProject)
+2022.6. 💪 [Electronics Vendor Company Database Project](https://github.com/junttang/ElecVendorCompDatabase)
+2022.6. 💪 [Dynamic Memory Allocator (malloc-lab)](https://github.com/junttang/DynamicMemoryAllocator)
 <!--END_SECTION:activity-->
 **(Some contents are blocked since it's in the middle of the semester!!)**
 <br/>
