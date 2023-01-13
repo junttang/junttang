@@ -57,7 +57,7 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 
 **:zap: My Résumé:**
 <!--START_SECTION:Resume-->
-- Served in the KOREA ARMY as a Computer & Server Engineer (20 Months)<br/>
+- Served in the KOREA ARMY as a Computer & Server Engineer (2018-2020)<br/>
 - Won an excellence award in the Youth Speech Contest in Anyang City (2020)<br/>
 - Former Member of the ONFOREST University Student Planning Group (2020)<br/>
 - Complete the Algorithm Basic Certification course of CODE PLUS (2021)<br/>
