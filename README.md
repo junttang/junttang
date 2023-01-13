@@ -3,15 +3,9 @@
 <a href="https://www.instagram.com/hyeok_nim">
   <img alt="Instagram" width="35px" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" />
 </a>  
-<a href="https://velog.io/@junttang">
-  <img alt="Velog" width="35px" src="https://cdn-icons.flaticon.com/png/512/2175/premium/2175259.png?token=exp=1642324081~hmac=4932ac62e2616459f1cfaeb67e20e098" />
-</a>
-<a href="https://junttang.github.io/MyPersonalWebHDML/">
-  <img alt="Website" width="35px" src="https://cdn-icons.flaticon.com/png/512/666/premium/666201.png?token=exp=1641871305~hmac=a6eb950e93dbc3421283843f813ef122" />
-</a>
 </p>
 
-I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)** and UG Intern of **[DISCOS Laboratory](http://discos.sogang.ac.kr/)**, Republic of Korea. Currently I'm studying an optimization for various file systems and device controllers on the modern SSDs technology, based on steady studying about System Programming, Operating Systems, and SSD(Solid-State Drive)s. No matter what field I go into later, **my ultimate goal is becoming an awesome system developer who makes the world covenient** Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**
+I'm an undergraduate student in **Computer Science Engineering, Sogang University [(@SGCSE)](https://cs.sogang.ac.kr/cs/index_new.html)** and UG Intern of **[DISCOS Laboratory](http://discos.sogang.ac.kr/)**, Republic of Korea. Currently I'm studying an optimization for various file systems and device controllers on the modern SSDs technology, based on steady studying about System Programming, Operating Systems, and SSD(Solid-State Drive)s. No matter what field I go into later, **my ultimate goal is becoming an awesome system developer who makes the world covenient** Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**
 
 <p align="center">
 <img align="center" alt="GIF" src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47fp2kwa76abo0wt1esa90i735t2frr1xxxe5bcc23&rid=giphy.gif&ct=g" />
@@ -49,7 +43,7 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 - Complete the Algorithm Basic Certification course of CODE PLUS (2021)<br/>
 - I got excellent GPAs(over 4.0/4.3) in four consequtive semesters (2021-2022)<br/>
 - And now, current Undergraduate Intern of **[DISCOS](http://discos.sogang.ac.kr/)** Laboratory (2023)<br/>
-- **You can see more details on my personal website [Hyeok's](https://junttang.github.io/MyPersonalWebHDML/)**
+- **You can see more details about me and my studies on [Hyeok's](https://junttang.github.io/MyPersonalWebHDML/) and [Hyeok's Log](https://velog.io/@junttang)**
 <!--END_SECTION:Resume-->
 <br/>
 
