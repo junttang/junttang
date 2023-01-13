@@ -11,7 +11,7 @@
 </a>
 </p>
 
-I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)**, Republic of Korea. Currently I'm studying Basic & Advanced Algorithms with problem solving training, System Programming, Database System, and Operating System. I'm interested in Processor Architecture Designing, System Programming with POSIX, Memory Device Solution, etc. No matter what field I go into later, **my ultimate goal is becoming an awesome developer who makes the world covenient.** Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**
+I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)** and UG Intern of [DISCOS Laboratory](http://discos.sogang.ac.kr/), Republic of Korea. Currently I'm studying an optimization for various file systems and device controllers on the modern SSDs technology, based on steady studying about System Programming, Operating Systems, and SSD(Solid-State Drive)s. No matter what field I go into later, **my ultimate goal is becoming an awesome system developer who makes the world covenient** Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**
 
 <p align="center">
 <img align="center" alt="GIF" src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47fp2kwa76abo0wt1esa90i735t2frr1xxxe5bcc23&rid=giphy.gif&ct=g" />
@@ -50,20 +50,18 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 2022.06. 💪 [Dynamic Memory Allocator (malloc-lab)](https://github.com/junttang/DynamicMemoryAllocator) <br>
 2022.08. 💪 [Algorithm Coding Test Practice on BOJSite](https://github.com/junttang/BOJ-Algorithm-Practice) <br>
 2022.12. 💪 [Tiny-based C-Minus Compiler Construction](https://github.com/junttang/TinyBasedC-Compiler) <br>
-2022.12. 💪 [pintOS Projects for studying OS Concepts](https://github.com/junttang/PintOSprojects) <br>
+2022.12. 💪 [PintOS Projects for studying OS Concepts](https://github.com/junttang/PintOSprojects) <br>
 <!--END_SECTION:activity-->
-**(Some contents are blocked since it's in the middle of the semester!!)**
 <br/>
 
 
 **:zap: My Résumé:**
 <!--START_SECTION:Resume-->
 - Served in the KOREA ARMY as a Computer & Server Engineer (20 Months)<br/>
-- ICQA Network Manager Certificate & KAIT Linux Master II Certificate (2020)<br/>
-- Recent official TOEIC Score 940 & TOEIC Speaking Lv7 & KHPTest Lv1 (2020)<br/>
-- Won an excellence award in the Youth Speech Contest in Anyang (2020)<br/>
+- Won an excellence award in the Youth Speech Contest in Anyang City (2020)<br/>
 - Former Member of the ONFOREST University Student Planning Group (2020)<br/>
 - Complete the Algorithm Basic Certification course of CODE PLUS (2021)<br/>
+- And now, current Undergraduate Intern of **[DISCOS](http://discos.sogang.ac.kr/)** Laboratory (2023)<br/>
 - **You can see more details on my personal website [Hyeok's](https://junttang.github.io/MyPersonalWebHDML/)**
 <!--END_SECTION:Resume-->
 <br/>
