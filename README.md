@@ -49,6 +49,8 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 2022.06. 💪 [Electronics Vendor Company Database Project](https://github.com/junttang/ElecVendorCompDatabase) <br>
 2022.06. 💪 [Dynamic Memory Allocator (malloc-lab)](https://github.com/junttang/DynamicMemoryAllocator) <br>
 2022.08. 💪 [Algorithm Coding Test Practice on BOJSite](https://github.com/junttang/BOJ-Algorithm-Practice) <br>
+2022.12. 💪 [Tiny-based C-Minus Compiler Construction](https://github.com/junttang/TinyBasedC-Compiler) <br>
+2022.12. 💪 [pintOS Projects for studying OS Concepts](https://github.com/junttang/PintOSprojects) <br>
 <!--END_SECTION:activity-->
 **(Some contents are blocked since it's in the middle of the semester!!)**
 <br/>
