@@ -5,7 +5,7 @@
 </a>  
 </p>
 
-I'm an undergraduate student in **Computer Science Engineering, Sogang University [(@SGCSE)](https://cs.sogang.ac.kr/cs/index_new.html)** and UG Intern of **[DISCOS Laboratory](http://discos.sogang.ac.kr/)**, Republic of Korea. Currently I'm studying an optimization for various file systems and device controllers on the modern SSDs technology, based on steady studying about System Programming, Operating Systems, and SSD(Solid-State Drive)s. No matter what field I go into later, **my ultimate goal is becoming an awesome system developer who makes the world covenient** Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**
+I'm an undergraduate student in **Computer Science Engineering, Sogang University [(@SGCSE)](https://cs.sogang.ac.kr/cs/index_new.html)** and UG Intern of **[DISCOS Laboratory](http://discos.sogang.ac.kr/)**, Republic of Korea. Currently I'm studying an optimization for FTLs, File Systems, and Key-Value Stores on the modern cutting-edge SSDs technology, with a steady studying about system programming, operating systems, and modern storage devices. No matter what field I go into later, **my ultimate goal is becoming an awesome system developer who makes the world covenient** Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**
 
 <p align="center">
 <img align="center" alt="GIF" src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47fp2kwa76abo0wt1esa90i735t2frr1xxxe5bcc23&rid=giphy.gif&ct=g" />
