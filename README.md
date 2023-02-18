@@ -16,7 +16,7 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 </p>
 
 
-**:zap: Recent Projects:**
+**:zap: Projects:**
 
 <!--START_SECTION:activity-->
 2021.05. 💪 [AssemblyProgramming with x86 MASM Assembler](https://github.com/junttang/AssemblyProgrammingAssign) <br>
