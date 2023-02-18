@@ -42,7 +42,7 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 - Former Member of the ONFOREST University Student Planning Group (2020)<br/>
 - Complete the Algorithm Basic Certification course of CODE PLUS (2021)<br/>
 - I got excellent GPAs(over 4.0/4.3) in four consequtive semesters (2021-2022)<br/>
-- And now, current Undergraduate Intern of **[DISCOS](http://discos.sogang.ac.kr/)** Laboratory (2023)<br/>
+- And now, current Undergraduate Intern of **[DISCOS](http://discos.sogang.ac.kr/)** Laboratory (2023-_now_)<br/>
 - **You can see more details about me and my studies on [Hyeok's](https://junttang.github.io/MyPersonalWebHDML/) and [Hyeok's Log](https://velog.io/@junttang)**
 <!--END_SECTION:Resume-->
 <br/>
