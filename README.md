@@ -35,7 +35,7 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 <br/>
 
 
-**:zap: My Résumé:**
+**:zap: Résumé:**
 <!--START_SECTION:Resume-->
 - Served in the KOREA ARMY as a computer & server engineer (2018-2020)<br/>
 - Won an excellence award in the Youth Speech Contest in Anyang (2020)<br/>
