@@ -37,12 +37,12 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 
 **:zap: My Résumé:**
 <!--START_SECTION:Resume-->
-- Served in the KOREA ARMY as a Computer & Server Engineer (2018-2020)<br/>
-- Won an excellence award in the Youth Speech Contest in Anyang City (2020)<br/>
-- Former Member of the ONFOREST University Student Planning Group (2020)<br/>
-- Complete the Algorithm Basic Certification course of CODE PLUS (2021)<br/>
-- I got excellent GPAs(over 4.0/4.3) in four consequtive semesters (2021-2022)<br/>
-- And now, currently work as an UG intern in the DISCOS Laboratory (2023-_now_)<br/>
+- Served in the KOREA ARMY as a computer & server engineer (2018-2020)<br/>
+- Won an excellence award in the Youth Speech Contest in Anyang (2020)<br/>
+- Former member of the ONFOREST University Students Group (2020)<br/>
+- Completed the Algorithm Basic course given by the CODE PLUS (2021)<br/>
+- Got excellent GPAs(over 4.0/4.3) in four consequtive semesters (2021-2022)<br/>
+- And now, I'm working as an UG intern in the DISCOS Laboratory (2023-_now_)<br/>
 - **You can see more details about me and my studies on [Hyeok's](https://junttang.github.io/MyPersonalWebHDML/) and [Hyeok's Log](https://velog.io/@junttang)**
 <!--END_SECTION:Resume-->
 <br/>
