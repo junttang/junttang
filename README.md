@@ -1,5 +1,3 @@
-I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)** and an UG Intern of **DISCOS Laboratory [@DISCOS](http://discos.sogang.ac.kr/)**, Republic of Korea. Currently I'm studying an optimization for FTLs, File Systems, and Key-Value Stores on the modern cutting-edge SSDs technology, with a steady studying about system programmings, operating systems, and modern storage devices. No matter what field I go into later, **_my ultimate goal is becoming an awesome system developer who makes the world covenient_**. Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**.
-
 <p align="center">
 <img align="center" alt="GIF" src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47fp2kwa76abo0wt1esa90i735t2frr1xxxe5bcc23&rid=giphy.gif&ct=g" />
 </p>
@@ -8,6 +6,7 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 <!--  <img alig src="https://github-profile-trophy.vercel.app/?username=junttang&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" /> -->
 </p>
 
+I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)** and an UG Intern of **DISCOS Laboratory [@DISCOS](http://discos.sogang.ac.kr/)**, Republic of Korea. Currently I'm studying an optimization for FTLs, File Systems, and Key-Value Stores on the modern cutting-edge SSDs technology, with a steady studying about system programmings, operating systems, and modern storage devices. No matter what field I go into later, **_my ultimate goal is becoming an awesome system developer who makes the world covenient_**. Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**.
 
 **:zap: Projects:**
 
