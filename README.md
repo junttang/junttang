@@ -6,9 +6,8 @@
 <!--  <img alig src="https://github-profile-trophy.vercel.app/?username=junttang&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" /> -->
 </p>
 
-I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)** and an UG Intern of **DISCOS Laboratory [@DISCOS](http://discos.sogang.ac.kr/)**, Republic of Korea. Currently I'm studying an optimization for FTLs, File Systems, and Key-Value Stores on the modern cutting-edge SSDs technology, with a steady studying about system programmings, operating systems, and modern storage devices. No matter what field I go into later, **_my ultimate goal is becoming an awesome system developer who makes the world covenient_**. Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**.
+&nbsp; &nbsp; I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)** and an UG Intern of **DISCOS Laboratory [@DISCOS](http://discos.sogang.ac.kr/)**, Republic of Korea. Currently I'm studying an optimization for FTLs, File Systems, and Key-Value Stores on the modern cutting-edge SSDs technology, with a steady studying about system programmings, operating systems, and modern storage devices. No matter what field I go into later, **_my ultimate goal is becoming an awesome system developer who makes the world covenient_**. Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**.
 
-<br/>
 <br/>
 
 **:zap: Projects:**
@@ -41,5 +40,3 @@ I'm an undergraduate student in **Computer Science Engineering, Sogang Universit
 - **You can see more details about me and my studies on [Hyeok's](https://junttang.github.io/MyPersonalWebHDML/) and [Hyeok's Log](https://velog.io/@junttang)**
 <!--END_SECTION:Resume-->
 <br/>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunttang&count_bg=%23FFF35E&title_bg=%23555555&icon=redhat.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
