@@ -7,13 +7,13 @@
 </p>
 <br/>
 
-**:zap: WhoAmI:**
+**:zap: WhoAmI :zap:**
 
 &nbsp; &nbsp; I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)** and an UG Intern of **DISCOS Laboratory [@DISCOS](http://discos.sogang.ac.kr/)**, Republic of Korea. Currently I'm studying an optimization for FTLs, File Systems, and Key-Value Stores on the modern cutting-edge SSDs technology, with a steady studying about system programmings, operating systems, and modern storage devices. No matter what field I go into later, **_my ultimate goal is becoming an awesome system developer who makes the world covenient_**. Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**.
 
 <br/>
 
-**:zap: Projects:**
+**:zap: Projects :zap:**
 
 <!--START_SECTION:activity-->
 2021.05. 💪 [AssemblyProgramming with x86 MASM Assembler](https://github.com/junttang/AssemblyProgrammingAssign) <br>
@@ -32,7 +32,7 @@
 <br/>
 
 
-**:zap: Résumé:**
+**:zap: Résumé :zap:**
 <!--START_SECTION:Resume-->
 - Served in the KOREA ARMY as a computer & server engineer (2018-2020)<br/>
 - Won an excellence award in the Youth Speech Contest in Anyang (2020)<br/>
