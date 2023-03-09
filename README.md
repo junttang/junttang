@@ -7,6 +7,7 @@
 </p>
 
 I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)** and an UG Intern of **DISCOS Laboratory [@DISCOS](http://discos.sogang.ac.kr/)**, Republic of Korea. Currently I'm studying an optimization for FTLs, File Systems, and Key-Value Stores on the modern cutting-edge SSDs technology, with a steady studying about system programmings, operating systems, and modern storage devices. No matter what field I go into later, **_my ultimate goal is becoming an awesome system developer who makes the world covenient_**. Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**.
+<br/>
 
 **:zap: Projects:**
 
