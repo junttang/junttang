@@ -7,14 +7,15 @@
 </p>
 <br/>
 
-**:zap: WhoAmI :zap:**
+**HelloWorld**
+---
 
-&nbsp; &nbsp; I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)** and an UG Intern of **DISCOS Laboratory [@DISCOS](http://discos.sogang.ac.kr/)**, Republic of Korea. Currently I'm studying an optimization for FTLs, File Systems, and Key-Value Stores on the modern cutting-edge SSDs technology, with a steady studying about system programmings, operating systems, and modern storage devices. No matter what field I go into later, **_my ultimate goal is becoming an awesome system developer who makes the world covenient_**. Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**.
+&nbsp; &nbsp; I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)** and an UG Intern of **DISCOS Laboratory [@DISCOS](http://discos.sogang.ac.kr/)**. Currently I'm studying optimizations for modern file systems and key-value stores on cutting-edge SSDs technologies to provide various high performance computing environments like AI system, big data processing, clouds services, and etc. And also I keep studying system programming techniques and underlying structure of modern operating systems and storage devices, which are fundamental knowledges for becoming a system profession. No matter what field I go into later, **_my ultimate goal is becoming an awesome system researcher who makes the world covenient_**. Here's my account on the BOJ, **junttang [@BOJ](https://www.acmicpc.net/user/junttang)**.
 
 <br/>
 
-**:zap: Projects :zap:**
-
+**MyWorks**
+---
 <!--START_SECTION:activity-->
 2021.05. 💪 [AssemblyProgramming with x86 MASM Assembler](https://github.com/junttang/AssemblyProgrammingAssign) <br>
 2021.06. 💪 [WhereIsMyCheese-OpenFrameWorksBasedGame](https://github.com/junttang/Comsil1-Final-Project/blob/master/ofApp.cpp) <br>
@@ -31,15 +32,7 @@
 <!--END_SECTION:activity-->
 <br/>
 
-
-**:zap: Résumé :zap:**
-<!--START_SECTION:Resume-->
-- Served in the KOREA ARMY as a computer & server engineer (2018-2020)<br/>
-- Won an excellence award in the Youth Speech Contest in Anyang (2020)<br/>
-- Former member of the ONFOREST University Students Group (2020)<br/>
-- Completed the Algorithm Basic course given by the CODE PLUS (2021)<br/>
-- Got excellent GPAs(over 4.0/4.3) in four consequtive semesters (2021-2022)<br/>
-- And now, I'm working as an UG intern in the DISCOS Laboratory (2023-_now_)<br/>
+**Others**
+---
 - **You can see more details about me and my studies on [Hyeok's](https://junttang.github.io/MyPersonalWebHDML/) and [Hyeok's Log](https://velog.io/@junttang)**
-<!--END_SECTION:Resume-->
 <br/>
