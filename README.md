@@ -20,7 +20,7 @@
 2021.05. 💪 [AssemblyProgramming with x86 MASM Assembler](https://github.com/junttang/AssemblyProgrammingAssign) <br>
 2021.06. 💪 [WhereIsMyCheese-OpenFrameWorksBasedGame](https://github.com/junttang/Comsil1-Final-Project/blob/master/ofApp.cpp) <br>
 2021.06. 💪 [Implementation Codes](https://github.com/junttang/DataStructuresPractice) [of DataStructures](https://github.com/junttang/BasicDataStructures) [and Algorithms](https://github.com/junttang/AlgorithmDesignAnalysis) <br/>
-2021.08. 💪 [Developing My First Personal Website HTML](https://github.com/junttang/MyPersonalWebHDML) <br>
+2021.08. 💪 [Developing My First Personal Website HTML](https://github.com/junttang/HyeoksPersonalWebSite) <br>
 2021.12. 💪 [Programming FPGA with Verilog HDL Vivado IDE](https://github.com/junttang/ProgrammingFPGA) <br>
 2022.04. 💪 [Developing My Own Linux Shell Project](https://github.com/junttang/MyShellProject) <br>
 2022.05. 💪 [Event&Thread-based Concurrent Stock Server](https://github.com/junttang/ConcurrentServerProject) <br>
@@ -34,5 +34,5 @@
 
 **Others**
 ---
-- **You can see more details about me and my studies on [Hyeok's](https://junttang.github.io/MyPersonalWebHDML/) and [Hyeok's Log](https://velog.io/@junttang)**
+- **You can see more details about me and my studies on [Hyeok's](https://junttang.github.io/HyeoksPersonalWebSite/) and [Hyeok's Log](https://velog.io/@junttang)**
 <br/>
