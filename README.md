@@ -29,7 +29,7 @@
 2022.08. 💪 [Algorithm Coding Test Practice on BOJSite](https://github.com/junttang/BOJ-Algorithm-Practice) <br>
 2022.12. 💪 [Tiny-based C-Minus Compiler Construction](https://github.com/junttang/TinyBasedC-Compiler) <br>
 2022.12. 💪 [PintOS Projects for studying OS Concepts](https://github.com/junttang/PintOSprojects) <br>
-2023.04. 💪 [Embedded Key-Value Store App on FPGA Board](https://github.com/junttang/EmbeddedKVstoreOnFPGA) <br>
+2023.04. 💪 [Simple Embedded Key-Value Store on FPGA Board](https://github.com/junttang/EmbeddedKVstoreOnFPGA) <br>
 
 <!--END_SECTION:activity-->
 <br/>
