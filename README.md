@@ -14,7 +14,7 @@
 
 <br/>
 
-**Pubications**
+**Publications**
 ---
 <!--START_SECTION:activity-->
 - **Optimizations about KV-CSDs** (ongoing work)
