@@ -17,8 +17,8 @@
 **Pubications**
 ---
 <!--START_SECTION:activity-->
-- Optimizations about KV-CSDs (ongoing work)
-- SPDK-based Key-Value Store (ongoing work)
+- **Optimizations about KV-CSDs** (ongoing work)
+- **SPDK-based Key-Value Store** (ongoing work)
 <!--END_SECTION:activity-->
 
 <br/>
