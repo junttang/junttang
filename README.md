@@ -27,7 +27,7 @@
 ---
 <!--START_SECTION:activity-->
 - [TravelPT - ChatGPT-based Travel Guide Application](...) (Unavailable Now, 06/2023) <br>
-  - Won the **Grand Prize at the '2023-1 Sogang Convergence Technology Competition'** 💪 
+  - Won the **Grand Prize at 'the 2023-1 Sogang Convergence Technology Competition'** 💪 
 - [WhereIsMyCheese - OFS(OpenFrameWork)-based Maze Game](https://github.com/junttang/MazeGameOFSbased) (Local, 06/2021) <br>
 <!--END_SECTION:activity-->
 
@@ -36,18 +36,18 @@
 **Projects**
 ---
 <!--START_SECTION:activity-->
-- [Assembly Programming with x86 MASM Assembler](https://github.com/junttang/AssemblyProgrammingAssign) (05/2021) <br>
-- [Implementations](https://github.com/junttang/DataStructuresPractice) [of Data Structures](https://github.com/junttang/BasicDataStructures) [and Algorithms](https://github.com/junttang/AlgorithmDesignAnalysis) (06/2021) <br/>
-- [My Portfolio Website Development with Bootstrap](https://github.com/junttang/HyeoksPersonalWebSite) (08/2021) <br>
-- [Programming FPGA with Verilog HDL in Vivado IDE](https://github.com/junttang/ProgrammingFPGA) (12/2021) <br>
-- [Bash-like Linux Shell Development Project](https://github.com/junttang/MyShellProject) (04/2022) <br>
-- [Event&Thread-based Concurrent Stock Server](https://github.com/junttang/ConcurrentServerProject) (05/2022) <br>
+- [Embedded System Software Developments](https://github.com/junttang/EmbeddedSystemSoftware) (06/2023) <br>
+- [PintOS Projects for studying OS Concepts](https://github.com/junttang/PintOSprojects) (12/2022) <br>
+- [Tiny-based C-Minus Compiler Construction](https://github.com/junttang/TinyBasedC-Compiler) (12/2022) <br>
+- [Algorithm Coding Test Practice on BOJSite](https://github.com/junttang/BOJ-Algorithm-Practice) (08/2022) <br>
 - [Electronics Vendor Company Database Project](https://github.com/junttang/ElecVendorCompDatabase) (06/2022) <br>
 - [C-style Dynamic Memory Allocator (malloc-lab)](https://github.com/junttang/DynamicMemoryAllocator) (06/2022) <br>
-- [Algorithm Coding Test Practice on BOJSite](https://github.com/junttang/BOJ-Algorithm-Practice) (08/2022) <br>
-- [Tiny-based C-Minus Compiler Construction](https://github.com/junttang/TinyBasedC-Compiler) (12/2022) <br>
-- [PintOS Projects for studying OS Concepts](https://github.com/junttang/PintOSprojects) (12/2022) <br>
-- [Embedded System Software Developments](https://github.com/junttang/EmbeddedSystemSoftware) (06/2023) <br>
+- [Event&Thread-based Concurrent Stock Server](https://github.com/junttang/ConcurrentServerProject) (05/2022) <br>
+- [Bash-like Linux Shell Development Project](https://github.com/junttang/MyShellProject) (04/2022) <br>
+- [Programming FPGA with Verilog HDL in Vivado IDE](https://github.com/junttang/ProgrammingFPGA) (12/2021) <br>
+- [My Portfolio Website Development with Bootstrap](https://github.com/junttang/HyeoksPersonalWebSite) (08/2021) <br>
+- [Implementations](https://github.com/junttang/DataStructuresPractice) [of Data Structures](https://github.com/junttang/BasicDataStructures) [and Algorithms](https://github.com/junttang/AlgorithmDesignAnalysis) (06/2021) <br/>
+- [Assembly Programming with x86 MASM Assembler](https://github.com/junttang/AssemblyProgrammingAssign) (05/2021) <br>
 <!--END_SECTION:activity-->
 
 <br/>
