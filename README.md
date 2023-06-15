@@ -27,7 +27,7 @@
 ---
 <!--START_SECTION:activity-->
 - [TravelPT - ChatGPT-based Travel Guide Application](...) (Unavailable Now, 06/2023) <br>
-  - Won **the Grand Prize at 'the 2023-1 Sogang Convergence Technology Competition'** 💪 
+  - Won **the Grand Prize at 'the 2023-1 Sogang Convergence Technology Competition'** [💪](http://cscp2.sogang.ac.kr/CSE4186/index.php/%EC%8C%88%EB%B0%95%ED%95%9C%EA%B9%80) 
 - [WhereIsMyCheese - OFS(OpenFrameWork)-based Maze Game](https://github.com/junttang/MazeGameOFSbased) (Available, 06/2021) <br>
 <!--END_SECTION:activity-->
 
