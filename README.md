@@ -17,8 +17,7 @@
 **Publications**
 ---
 <!--START_SECTION:activity-->
-- **Optimizations about KV-CSDs** (ongoing work)
-- **SPDK-based Key-Value Store** (ongoing work)
+- **OctoKV: An Agile Network-based Key-Value Storage System with Robust Load Orchestration** _(Yeohyeon Park, **Junhyeok Park**, Awais Khan, Jungwhan Park, Woosuk Chung, Youngjae Kim)_ **\[MASCOTS'23\]** [(pdf)](...)
 <!--END_SECTION:activity-->
 
 <br/>
