@@ -17,7 +17,7 @@
 **Publications**
 ---
 <!--START_SECTION:activity-->
-- **OctoKV: An Agile Network-based Key-Value Storage System with Robust Load Orchestration** _(Yeohyeon Park, **Junhyeok Park**, Awais Khan, Jungwhan Park, Chang-Gyu Lee, Woosuk Chung, Youngjae Kim)_ **\[MASCOTS'23\]** [(pdf)](https://discos.sogang.ac.kr/file/2023/intl_conf/MASCOTS_2023_Y_Park.pdf)
+- **OctoKV: An Agile Network-based Key-Value Storage System with Robust Load Orchestration** _(Yeohyeon Park, **Junhyeok Park**, Awais Khan, Junghwan Park, Chang-Gyu Lee, Woosuk Chung, Youngjae Kim)_ **\[MASCOTS'23\]** [(pdf)](https://discos.sogang.ac.kr/file/2023/intl_conf/MASCOTS_2023_Y_Park.pdf)
 <!--END_SECTION:activity-->
 
 <br/>
@@ -25,8 +25,8 @@
 **Services**
 ---
 <!--START_SECTION:activity-->
-- [TravelPT - ChatGPT-based Travel Guide Application](...) (Unavailable Now, 06/2023) <br>
-  - Won **the Grand Prize at 'the 2023-1 Sogang Convergence Technology Competition'** [💪](http://cscp2.sogang.ac.kr/CSE4186/index.php/%EC%8C%88%EB%B0%95%ED%95%9C%EA%B9%80) 
+- [TravelPT - ChatGPT-based Travel Guide Application](...) (Unavailable, 06/2023) <br>
+  - Won **the Grand Prize at '2023-1 Sogang Convergence Technology Competition'** [💪](http://cscp2.sogang.ac.kr/CSE4186/index.php/%EC%8C%88%EB%B0%95%ED%95%9C%EA%B9%80) 
 - [WhereIsMyCheese - OFS(OpenFrameWork)-based Maze Game](https://github.com/junttang/MazeGameOFSbased) (Available, 06/2021) <br>
 <!--END_SECTION:activity-->
 
