@@ -57,5 +57,5 @@
 **Others**
 ---
 - **You can see more about me on [Hyeok's](https://junttang.github.io/HyeoksPersonalWebSite/) and [Hyeok's Log](https://velog.io/@junttang)**
-- **You can contact me via [:blush:](junttang123@naver.com), [:smirk:](junttang@sogang.ac.kr) or [:laughing:](https://www.instagram.com/hyeok_travel/)**
+- **You can contact me via [:blush:](mailto:junttang123@naver.com), [:smirk:](mailto:junttang@sogang.ac.kr) or [:laughing:](https://www.instagram.com/hyeok_travel/)**
 <br/>
