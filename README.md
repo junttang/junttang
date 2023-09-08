@@ -26,7 +26,7 @@
 ---
 <!--START_SECTION:activity-->
 - **TravelPT - ChatGPT-based Travel Guide Application** [(Available)](http://cscp2.sogang.ac.kr/CSE4186/index.php/%EC%8C%88%EB%B0%95%ED%95%9C%EA%B9%80) <br>
-  - _Won the Grand Prize at '2023-1 Sogang Convergence Technology Competition'_ [💪](http://cscp2.sogang.ac.kr/CSE4186/index.php/%EC%8C%88%EB%B0%95%ED%95%9C%EA%B9%80) 
+  - _Won the Grand Prize at '2023-1 Sogang Convergence Technology Competition'_
 <!--END_SECTION:activity-->
 
 <br/>
@@ -56,5 +56,6 @@
 
 **Others**
 ---
-- **You can see more details about me and my studies on [Hyeok's](https://junttang.github.io/HyeoksPersonalWebSite/) and [Hyeok's Log](https://velog.io/@junttang)**
+- **You can see more about me on [Hyeok's](https://junttang.github.io/HyeoksPersonalWebSite/) and [Hyeok's Log](https://velog.io/@junttang)**
+- **You can contact me via [:blush:](junttang123@naver.com), [:smirk:](junttang@sogang.ac.kr) or [:laughing:](https://www.instagram.com/hyeok_travel/)**
 <br/>
