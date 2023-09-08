@@ -1,10 +1,8 @@
-<p align="center">
-<img align="center" alt="GIF" src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47fp2kwa76abo0wt1esa90i735t2frr1xxxe5bcc23&rid=giphy.gif&ct=g" />
-</p>
+<!--<p align="center">-->
+<!--<img align="center" alt="GIF" src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47fp2kwa76abo0wt1esa90i735t2frr1xxxe5bcc23&rid=giphy.gif&ct=g" />-->
+<!--</p>-->
 
-<p align="center">
-<!--  <img alig src="https://github-profile-trophy.vercel.app/?username=junttang&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" /> -->
-</p>
+<!--<p align="center">-->
 <br/>
 
 **HelloWorld**
