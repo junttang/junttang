@@ -25,7 +25,7 @@
 **Services**
 ---
 <!--START_SECTION:activity-->
-- **TravelPT - ChatGPT-based Travel Guide Application** ([Available](http://cscp2.sogang.ac.kr/CSE4186/index.php/%EC%8C%88%EB%B0%95%ED%95%9C%EA%B9%80), 06/2023) <br>
+- **TravelPT - ChatGPT-based Travel Guide Application** [(Available)](http://cscp2.sogang.ac.kr/CSE4186/index.php/%EC%8C%88%EB%B0%95%ED%95%9C%EA%B9%80) <br>
   - _Won the Grand Prize at '2023-1 Sogang Convergence Technology Competition'_ [💪](http://cscp2.sogang.ac.kr/CSE4186/index.php/%EC%8C%88%EB%B0%95%ED%95%9C%EA%B9%80) 
 <!--END_SECTION:activity-->
 
