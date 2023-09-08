@@ -37,16 +37,16 @@
 
 |Title|Repo|Date|
 |--|--|--|
-|Embedded System Software Developments|[Link](https://github.com/junttang/EmbeddedSystemSoftware)|06/23|
-|PintOS Projects for studying OS Concepts|[Link](https://github.com/junttang/PintOSprojects)|12/22|
-|Tiny-based C-Minus Compiler Construction|[Link](https://github.com/junttang/TinyBasedC-Compiler)|12/22|
-|Electronics Vendor Company Database Project|[Link](https://github.com/junttang/ElecVendorCompDatabase)|06/22|
-|C-style Dynamic Memory Allocator (malloc-lab)|[Link](https://github.com/junttang/DynamicMemoryAllocator)|06/22|
-|Event&Thread-based Concurrent Stock Server|[Link](https://github.com/junttang/ConcurrentServerProject)|05/22|
-|Bash-like Linux Shell Development Project|[Link](https://github.com/junttang/MyShellProject)|04/22|
-|Programming FPGA with Verilog HDL in Vivado IDE|[Link](https://github.com/junttang/ProgrammingFPGA)|12/21|
-|WhereIsMyCheese - OFS(OpenFrameWork)-based Maze Game|[Link](https://github.com/junttang/MazeGameOFSbased)|12/21|
-|Assembly Programming with x86 MASM Assembler|[Link](https://github.com/junttang/AssemblyProgrammingAssign)|05/21|
+|**Embedded System Software Developments**|[Link](https://github.com/junttang/EmbeddedSystemSoftware)|_06/23_|
+|**PintOS Projects for studying OS Concepts**|[Link](https://github.com/junttang/PintOSprojects)|_12/22_|
+|**Tiny-based C-Minus Compiler Construction**|[Link](https://github.com/junttang/TinyBasedC-Compiler)|_12/22_|
+|**Electronics Vendor Company Database Project**|[Link](https://github.com/junttang/ElecVendorCompDatabase)|_06/22_|
+|**C-style Dynamic Memory Allocator (malloc-lab)**|[Link](https://github.com/junttang/DynamicMemoryAllocator)|_06/22_|
+|**Event&Thread-based Concurrent Stock Server**|[Link](https://github.com/junttang/ConcurrentServerProject)|_05/22_|
+|**Bash-like Linux Shell Development Project**|[Link](https://github.com/junttang/MyShellProject)|_04/22_|
+|**Programming FPGA with Verilog HDL in Vivado IDE**|[Link](https://github.com/junttang/ProgrammingFPGA)|_12/21_|
+|**WhereIsMyCheese - OFS(OpenFrameWork)-based Maze Game**|[Link](https://github.com/junttang/MazeGameOFSbased)|_12/21_|
+|**Assembly Programming with x86 MASM Assembler**|[Link](https://github.com/junttang/AssemblyProgrammingAssign)|_05/21_|
 
 </div>
 </details>
