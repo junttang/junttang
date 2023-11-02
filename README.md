@@ -8,7 +8,7 @@
 **HelloWorld**
 ---
 
-&nbsp; &nbsp; I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)** and an UG Intern of **DISCOS Laboratory [@DISCOS](http://discos.sogang.ac.kr/)**. My research focuses on optimizing key-value stores and distributed file systems on advanced memory & SSD technologies including NVMe SSD, CSD, NVM and CXL, with a specific interest in supporting data-intensive applications such as Clouds, Deep Learning and GPT. I'm also studying system-level optimizations for general applications, based on a deep understanding for underlying structures of operating systems. In summary, I'm getting ready to become a professional on computer systems. No matter what field I go into later, **_my ultimate goal is becoming an awesome system researcher who makes the world covenient_**. Here's my account on **[@BOJ](https://www.acmicpc.net/user/junttang)**.
+&nbsp; &nbsp; I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)** and an UG Intern of **DISCOS Laboratory [@DISCOS](http://discos.sogang.ac.kr/)**. My research focuses on optimizing key-value stores and distributed file systems on advanced memory & storage technologies including NVMe SSD, Computational SSD, SPDK, and CXL, with a specific interest in supporting data-intensive services such as Clouds, Deep Learning and GPT. I'm also studying system-level optimizations for general applications, with a deep understanding of operating systems. In summary, I'm getting ready to become a professional on computer systems. No matter what field I go into later, **_my ultimate goal is becoming an awesome system researcher who makes the world covenient_**. Here's my account on **[@BOJ](https://www.acmicpc.net/user/junttang)**.
 
 <br/>
 
@@ -23,7 +23,7 @@
 **Services**
 ---
 <!--START_SECTION:activity-->
-- **TravelPT - ChatGPT-based Travel Guide Application** [(available)](http://cscp2.sogang.ac.kr/CSE4186/index.php/%EC%8C%88%EB%B0%95%ED%95%9C%EA%B9%80) <br>
+- **TravelPT - ChatGPT-based Travel Guide Application** [(unavailable)](http://cscp2.sogang.ac.kr/CSE4186/index.php/%EC%8C%88%EB%B0%95%ED%95%9C%EA%B9%80) <br>
   - _Won the Grand Prize at '2023-1 Sogang Convergence Technology Competition'_
 <!--END_SECTION:activity-->
 
