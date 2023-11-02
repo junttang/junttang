@@ -15,7 +15,7 @@
 **Publications**
 ---
 <!--START_SECTION:activity-->
-- **OctoKV: An Agile Network-based Key-Value Storage System with Robust Load Orchestration** _(Yeohyeon Park, **Junhyeok Park**, Awais Khan, Junghwan Park, Chang-Gyu Lee, Woosuk Chung, Youngjae Kim)_ **\[MASCOTS'23\]** [(pdf)](https://discos.sogang.ac.kr/file/2023/intl_conf/MASCOTS_2023_Y_Park.pdf)
+- **OctoKV: An Agile Network-based Key-Value Storage System with Robust Load Orchestration** _(Yeohyeon Park, **Junhyeok Park**, Awais Khan, Junghwan Park, Chang-Gyu Lee, Woosuk Chung, Youngjae Kim)_ **\[MASCOTS'23\]** [(pdf)](https://discos.sogang.ac.kr/file/2023/intl_conf/MASCOTS_2023_Y_Park.pdf) [(talk)](https://discos.sogang.ac.kr/gallery)
 <!--END_SECTION:activity-->
 
 <br/>
