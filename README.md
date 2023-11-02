@@ -8,7 +8,7 @@
 **HelloWorld**
 ---
 
-&nbsp; &nbsp; I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)** and a research intern in **DISCOS Laboratory [@DISCOS](http://discos.sogang.ac.kr/)**. My research focuses on optimizing key-value stores and distributed file systems on state-of-the-art memory and storage technologies including NVMe SSD, Computational SSD, SPDK, and CXL, with a specific interest in supporting data-intensive services such as Cloud, Deep Learning and GPT. I'm also interested in system optimizations for general-purpose applications, with a deep understanding of operating systems. At the end of the day, **_my ultimate goal is becoming an awesome system researcher who makes the world covenient_**.
+&nbsp; &nbsp; I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)** and a research intern in **DISCOS Laboratory [@DISCOS](http://discos.sogang.ac.kr/)**. My research focuses on optimizing key-value stores and distributed file systems on state-of-the-art memory and storage technologies including NVMe SSD, Computational SSD, SPDK, and CXL, with a specific interest in supporting data-intensive services such as Cloud, Deep Learning and GPT. I'm also interested in system optimizations for general-purpose applications, with a deep understanding of operating systems. **_My ultimate goal is becoming an awesome system researcher who makes the world covenient_**.
 
 <br/>
 
