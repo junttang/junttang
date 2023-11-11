@@ -8,7 +8,7 @@
 **HelloWorld**
 ---
 
-&nbsp; &nbsp; I'm an undergraduate CSE student in **Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)** and a research intern in **DISCOS Laboratory [@DISCOS](http://discos.sogang.ac.kr/)**. My research focuses on optimizing applications running on state-of-the-art memory and storage technologies including NVMe SSD, Computational SSD, SPDK, HBM, PIM, and CXL. **_My goal is becoming an awesome system researcher who makes the world covenient_**.
+&nbsp; &nbsp; I'm an undergraduate CSE student in **Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)** and a research intern in **DISCOS Laboratory [@DISCOS](http://discos.sogang.ac.kr/)**. My research focuses on optimizing applications running on state-of-the-art memory and storage technologies including NVMe SSD, CSD, SPDK, HBM, PIM, and CXL. **_My goal is becoming an awesome system researcher who makes the world covenient_**.
 
 <br/>
 
