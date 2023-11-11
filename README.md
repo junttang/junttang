@@ -8,14 +8,14 @@
 **HelloWorld**
 ---
 
-&nbsp; &nbsp; I'm an undergraduate student in **Computer Science Engineering, Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)** and a research intern in **DISCOS Laboratory [@DISCOS](http://discos.sogang.ac.kr/)**. My research focuses on optimizing key-value stores and distributed file systems on state-of-the-art memory and storage technologies including NVMe SSD, Computational SSD, SPDK, and CXL, with a specific interest in supporting data-intensive services such as Cloud, Deep Learning and GPT. I'm also interested in system optimizations for general-purpose applications, with a deep understanding of operating systems. **_My ultimate goal is becoming an awesome system researcher who makes the world covenient_**.
+&nbsp; &nbsp; I'm an undergraduate CSE student in **Sogang University [@SGCSE](https://cs.sogang.ac.kr/cs/index_new.html)** and a research intern in **DISCOS Laboratory [@DISCOS](http://discos.sogang.ac.kr/)**. My research focuses on optimizing applications running on state-of-the-art memory and storage technologies including NVMe SSD, Computational SSD, SPDK, HBM, PIM, and CXL. **_My goal is becoming an awesome system researcher who makes the world covenient_**.
 
 <br/>
 
 **Publications**
 ---
 <!--START_SECTION:activity-->
-- **OctoKV: An Agile Network-based Key-Value Storage System with Robust Load Orchestration** _(Yeohyeon Park, **Junhyeok Park**, Awais Khan, Junghwan Park, Chang-Gyu Lee, Woosuk Chung, Youngjae Kim)_ **\[MASCOTS'23\]** [(pdf)](https://discos.sogang.ac.kr/file/2023/intl_conf/MASCOTS_2023_Y_Park.pdf) [(talk)](https://discos.sogang.ac.kr/gallery)
+- **OctoKV: An Agile Network-based Key-Value Storage System with Robust Load Orchestration** _(Yeohyeon Park, **Junhyeok Park**, Awais Khan, Junghwan Park, Chang-Gyu Lee, Woosuk Chung, Youngjae Kim)_ **\[MASCOTS '23\]** [(pdf)](https://discos.sogang.ac.kr/file/2023/intl_conf/MASCOTS_2023_Y_Park.pdf) [(talk)](https://discos.sogang.ac.kr/gallery)
 <!--END_SECTION:activity-->
 
 <br/>
@@ -24,7 +24,7 @@
 ---
 <!--START_SECTION:activity-->
 - **TravelPT - ChatGPT-based Travel Guide Application** [(unavailable)](http://cscp2.sogang.ac.kr/CSE4186/index.php/%EC%8C%88%EB%B0%95%ED%95%9C%EA%B9%80) <br>
-  - _Won the Grand Prize at '2023-1 Sogang Convergence Technology Competition'_
+  - _Best Excellence Award at the 2023-1 Sogang Convergence Technology Competition_
 <!--END_SECTION:activity-->
 
 <br/>
@@ -54,6 +54,6 @@
 
 **Others**
 ---
-- **You can see more about me on [Hyeok's](https://junttang.github.io/HyeoksPersonalWebSite/) and [Hyeok's Log](https://velog.io/@junttang)**
+- **You can see more about me on [Hyeok's](https://junttang.github.io/HyeoksPersonalWebSite/), [Hyeok's Log](https://velog.io/@junttang), and [LinkedIn](https://www.linkedin.com/in/junhyeok-park-618666290/)**
 - **You can contact me via [:blush:](mailto:junttang123@naver.com), [:smirk:](mailto:junttang@sogang.ac.kr) or [:laughing:](https://www.instagram.com/hyeok_travel/)**
 <br/>
