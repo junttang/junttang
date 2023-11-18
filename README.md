@@ -53,6 +53,6 @@
 
 **Contact**
 ---
-- **My webs are [junttang.github.io](https://junttang.github.io/) / [hyeok's log](https://velog.io/@junttang) / [LinkedIn](https://www.linkedin.com/in/junhyeok-park-618666290/)**
+- **My webs are [junttang.github.io](https://junttang.github.io/) / [LinkedIn](https://www.linkedin.com/in/junhyeok-park-618666290/) / [hyeok's log](https://velog.io/@junttang)**
 - **My e-mails are [:blush:](mailto:junttang123@naver.com) / [:smirk:](mailto:junttang@sogang.ac.kr) / [:laughing:](https://www.instagram.com/hyeok_travel/)**
 <br/>
