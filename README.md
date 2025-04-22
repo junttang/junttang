@@ -37,6 +37,7 @@
 
 |Title|Repo|Date|
 |--|--|--|
+|**BandSlim Key-Value SSD Driver and Controller**|[Link](https://github.com/lass-lab/bandslim)|_04/24_|
 |**Embedded System Software Developments**|[Link](https://github.com/junttang/EmbeddedSystemSoftware)|_06/23_|
 |**PintOS Projects for studying OS Concepts**|[Link](https://github.com/junttang/PintOSprojects)|_12/22_|
 |**Tiny-based C-Minus Compiler Construction**|[Link](https://github.com/junttang/TinyBasedC-Compiler)|_12/22_|
