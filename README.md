@@ -37,6 +37,7 @@
 
 |Title|Repo|Date|
 |--|--|--|
+|**OpenSSD-Based Hybrid Evaluation Framework for CXL-SSDs**|[Link](https://github.com/hschung1652/opencxd)|_08/25_|
 |**ByteExpress-Extended NVMe Driver and Controller**|[Link](https://github.com/junttang/byteexpress)|_06/25_|
 |**BandSlim Key-Value SSD Driver and Controller**|[Link](https://github.com/lass-lab/bandslim)|_04/24_|
 |**Embedded System Software Developments**|[Link](https://github.com/junttang/EmbeddedSystemSoftware)|_06/23_|
