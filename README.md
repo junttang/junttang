@@ -29,7 +29,7 @@
 
 <!-- <br/> -->
 
-**Projects**
+<!--**Projects**
 ---
 <details>
 <summary><b>Show all</b></summary>
@@ -52,7 +52,7 @@
 |**Assembly Programming with x86 MASM Assembler**|[Link](https://github.com/junttang/AssemblyProgrammingAssign)|_05/21_|
 
 </div>
-</details>
+</details>-->
 
 **Contact**
 ---
